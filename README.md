@@ -1,1 +1,1 @@
-Folder for ideation.
+Work folder.
